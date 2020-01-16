@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="kettle-core-8.3.0.0-371">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/kettle-core-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kettle-dbdialog-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kettle-engine-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kettle-log4j-core-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kettle-ui-swt-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/classic-extensions-kettle-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-metadata-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-capability-manager-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-connections-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-cwm-1.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-hadoop-shims-api-8.3.2019.05.00-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-metaverse-api-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-osgi-utils-api-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-platform-api-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-platform-core-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-platform-extensions-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-platform-repository-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-registry-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-service-coordinator-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-vfs-browser-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/metastore-8.3.0.0-371.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/kafka-clients-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/pentaho-cwm-1.5.4.jar!/" />
+    </SOURCES>
+  </library>
+</component>
