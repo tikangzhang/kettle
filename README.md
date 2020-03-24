@@ -1,4 +1,3 @@
-# kettle
-kettle code for custom use
+kettle自定义插件示例
 
-code for transformations and partitioner
+包括转换、分区器
